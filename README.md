@@ -86,16 +86,3 @@ weather-app/
 - Offline caching of last weather data  
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share!  
-
----
-
-🌟 If you found this helpful, don’t forget to **star the repo**!
-```
-
-⚡ Now it’s a single full markdown block you can copy-paste directly into `README.md`.  
-
-Do you also want me to **auto-fill the YouTube video ID & repo link placeholders** with your actual ones, so it’s production-ready?
